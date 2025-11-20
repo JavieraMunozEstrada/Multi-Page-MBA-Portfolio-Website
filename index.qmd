@@ -1,0 +1,20 @@
+---
+title: "Home"
+---
+
+<div class="banner" aria-label="Decorative header strip">
+  <img src="images/headshot.jpg" alt="Headshot of Javiera Munoz Estrada" class="headshot" />
+</div>
+
+<div style="text-align:center; margin-top:0">
+  <p><strong>Javiera Munoz Estrada</strong> — MBA Candidate · Nursing · Accounting Assistant · Finance & Healthcare · Vancouver, BC</p>
+  <p><a href="mailto:javiera.estrada@hotmail.com">javiera.estrada@hotmail.com</a> · <a href="tel:+16729642468">+1 (672) 964-2468</a> · <a href="https://www.linkedin.com/in/javiera-munoz-48a518379" target="_blank" rel="noopener">LinkedIn</a> · <a href="files/Javiera_Munoz_Resume.pdf" target="_blank" rel="noopener">Download Resume (PDF)</a></p>
+</div>
+
+## About
+MBA candidate at University Canada West with a strong background spanning healthcare and finance. Over seven years as a Registered Nurse and more than two years as an Accounting Assistant in the cleaning and facilities services industry. Skilled in financial reporting, invoicing, client relationship management, and team collaboration. Career goal: roles at the intersection of finance, healthcare operations, and digital transformation.
+
+## Highlights
+- Cross-functional background: healthcare + accounting (client accounts, invoicing & reconciliation).
+- Strong communication, empathy, and problem-solving under pressure.
+- Interested in digital operations, analytics, and process improvement.

@@ -1,0 +1,24 @@
+---
+title: "Projects & Case Studies"
+---
+
+### Electronic Health Record
+Participated in the implementation of electronic health records at the hospital where I worked. As a supervising nurse in this digital transformation, I was actively involved, first in my own training for this new project and then in the training of the entire team.
+
+- **Tools:**  EHR platform, Clinical documentation, Training and workflow guidelines, Internal communication tools.
+- **Focus:**   Improve access to each patient's clinical information. Train clinical staff in digital workflows, ensuring compliance with hospital protocols and data protection regulations. Provide support in managing digital change. Standardize patient records, guaranteeing consistency and security.
+- **Outcome:** Increased access to each patient's medical record, thereby improving decision-making and patient care. Greater staff confidence and adoption of the digital tool thanks to hands-on training and support.
+
+### Portfolio Website (Quarto + GitHub Pages)
+Built a multi-page, accessible personal website using Quarto. Implemented a clean navbar, separate pages, and reusable styles. Published via GitHub Pages with SEO-friendly structure and downloadable resume.
+
+- **Tools:** Quarto, Markdown, GitHub Pages  
+- **Focus:** Accessibility, responsive layout, clear information architecture  
+- **Outcome:** Professional online presence supporting MBA job search
+
+### Operations/Finance Brief (Bitacora)
+Summarized invoicing and reconciliation practices; proposed a simple tracking sheet to reduce discrepancies and improve cycle time.
+
+- **Tools:** Excel/Sheets  
+- **Focus:** Accuracy, communication with clients, month-end clarity  
+- **Outcome:** Improved visibility of open items; faster issue resolution
